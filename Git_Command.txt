@@ -1,0 +1,7 @@
+GIT Commands:
+
+git -v -> Version
+
+git status -> to check the status of repository
+
+git init -> It is used to create a empty repository file
